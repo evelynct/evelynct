@@ -5,7 +5,7 @@
 </div>
 
 ## Sobre Mim
-Sou uma estudante dedicada de Tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo. Estou em constante busca por aprimoramento e crescimento profissional, sempre buscando oportunidades para expandir meus conhecimentos e habilidades.
+Sou uma estudante de Tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo. Estou em constante busca por aprimoramento e crescimento profissional, sempre buscando oportunidades para expandir meus conhecimentos e habilidades.
 
 Meu conjunto de habilidades inclui proficiência em:
 
